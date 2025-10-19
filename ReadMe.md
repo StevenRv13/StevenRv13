@@ -2,12 +2,6 @@
   <img height="300" src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
 
 # 💫 About Me:
 ⚡ I’m currently working on my personal growth <br>🌱 I’m currently learning web development and cybersecurity<br>
